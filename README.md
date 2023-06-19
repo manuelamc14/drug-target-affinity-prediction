@@ -1,1 +1,1 @@
-# drug-target-affinity-prediction
+# Drug Target Affinity Prediction
